@@ -1,0 +1,8 @@
+{
+  "name": "TrendGenie AI",
+  "description": "Your personal AI stylist. Discover your perfect hairstyle and fashion look, find nearby salons, and shop trending outfits.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
