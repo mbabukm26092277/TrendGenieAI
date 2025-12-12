@@ -1,0 +1,2 @@
+# TrendGenieAI
+TrendGenieAI
