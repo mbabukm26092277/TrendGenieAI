@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 //import { ImageUpload } from './components/ImageUpload';
-import { ImageUpload } from "./components/ImageUpload";
+//import { ImageUpload } from "./components/ImageUpload";
+import { ImageUpload } from "@/components/ImageUpload";
 import { SubscriptionModal } from './components/SubscriptionModal';
 import { generateStyleImage, findNearbySalons, findShoppingLinks, getMoreStyleSuggestions } from './services/geminiService';
 import { MAX_FREE_GENERATIONS, HAIR_STYLES, FASHION_STYLES, APP_NAME, HAIR_COLORS, CLOTHING_COLORS } from './constants';
